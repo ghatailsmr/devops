@@ -6,8 +6,8 @@
 trigger:
 - master
 
-pool:
-  react
+pool: React
+  
 
 steps:
 - task: NodeTool@0
